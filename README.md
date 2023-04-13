@@ -1,4 +1,4 @@
-# Lab7_202001203
+# Lab-7_202001203
 
 ## Section-A
 **Based on the input ranges, we can identify the following equivalence classes:** <br>
