@@ -635,7 +635,7 @@ Note: Test cases TC1 to TC10 covers all identified equivalence classes.<br>
 
 **2. Test sets**<br>
 
-Statement coverage test sets: To achieve statement coverage, we need to make sure that every statement in the code is executed at least once.<br>
+**Statement coverage test sets:** To achieve statement coverage, we need to make sure that every statement in the code is executed at least once.<br>
 Test 1: p = empty vector<br>
 Test 2: p = vector with one point<br>
 Test 3: p = vector with two points with the same y component<br>
@@ -644,7 +644,7 @@ Test 5: p = vector with three or more points with different y components<br>
 Test 6: p = vector with three or more points with the same y component<br>
 
 
-Branch coverage test sets: To achieve branch coverage, we need to make sure that every possible branch in the code is taken at least once<br>
+**Branch coverage test sets:** To achieve branch coverage, we need to make sure that every possible branch in the code is taken at least once.<br>
 Test 1: p = empty vector<br>
 Test 2: p = vector with one point<br>
 Test 3: p = vector with two points with the same y component<br>
@@ -654,7 +654,7 @@ Test 6: p = vector with three or more points with the same y component, and some
 Test 7: p = vector with three or more points with the same y component, and all of them have the same x component<br>
 
 
-Basic condition coverage test sets: To achieve basic condition coverage, we need to make sure that every basic condition in the code (i.e., every Boolean subexpression) is evaluated as both true and false at least once<br>
+**Basic condition coverage test sets:** To achieve basic condition coverage, we need to make sure that every basic condition in the code (i.e., every Boolean subexpression) is evaluated as both true and false at least once.<br>
 Test 1: p = empty vector<br>
 Test 2: p = vector with one point<br>
 Test 3: p = vector with two points with the same y component, and the first point has a smaller x component<br>
